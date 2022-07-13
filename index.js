@@ -1,3 +1,3 @@
-const coba = require('./coba');
+const variable = require("./variable.js");
 
-console.log(coba.cetakNama('Ahmad Mursyidan'), coba.cetakUmur(20));
+console.log(variable.age);

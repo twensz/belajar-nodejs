@@ -1,1 +1,1 @@
-console.log('Hello Bumi');
+const validator = require('validator');
